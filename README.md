@@ -14,13 +14,13 @@ A few words about me: a beginner frontend developer, created several pat project
     <th>🎨 Design</th>
   </tr>
   <tr>
-    <td>HTML, CSS, JavaScript, Node.js</td>
+    <td>HTML, CSS, JavaScript, TypeScript, Node.js</td>
     <td>Vite, npm</td>
     <td>Lodash, Yup</td>
     <td>Photoshop, Illustrator</td>
   </tr>
   <tr>
-    <td>cURL, HTTPie</td>
+    <td>React, Redux</td>
     <td>Jest</td>
     <td>Axios, Fetch</td>
     <td>InDesign</td>
