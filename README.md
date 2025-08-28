@@ -1,6 +1,4 @@
-![Header](./images/header.jpg)
-
-<!-- ![Header](./images/profile-header.jpg)-->
+![Header](./images/profile-header.jpg)
 
 # Привет всем! 👋
 
