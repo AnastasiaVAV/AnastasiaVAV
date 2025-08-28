@@ -1,45 +1,36 @@
 ![Header](./images/header.jpg)
 
-# <p align="center" style="color:66ade9">My name is Anastasia Volkova</></p>
+<!-- ![Header](./images/profile-header.jpg)-->
 
-### <p align="center">Welcome to my GitHub profile</p>
-A few words about me: a beginner frontend developer, created several pat projects (about it below). Now I am actively learning new technologies and frameworks, deepening my knowledge in Javascript. Every new project for me is a challenge and a lot of useful knowledge.
+# Привет всем! 👋
 
-<h2>Hard Skills</h2>
-<table style="width:100%">
-  <tr>
-    <th>🌐 Web Development</th>
-    <th>🛠 Tools</th>
-    <th>📚 Libraries and Frameworks</th>
-    <th>🎨 Design</th>
-  </tr>
-  <tr>
-    <td>HTML, CSS, JavaScript, TypeScript, Node.js</td>
-    <td>Vite, npm</td>
-    <td>Lodash, Yup</td>
-    <td>Photoshop, Illustrator</td>
-  </tr>
-  <tr>
-    <td>React, Redux</td>
-    <td>Jest</td>
-    <td>Axios, Fetch</td>
-    <td>InDesign</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>VSCode</td>
-    <td>i18next</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Git</td>
-    <td>Bootstrap</td>
-    <td></td>
-  </tr>
-</table>
+Меня зовут Настя, и я:
+- 💻 Фронтенд-разработчик: JavaScript, TypeScript, React  
+- 🚀 Активно изучаю: TypeScript, современные фреймворки
+- 📚 Постоянно совершенствую навыки в веб-разработке
 
+## 🛠️ Технологии и инструменты
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=white&color=EAEAEA&labelColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-%23323330?style=for-the-badge&logo=HTML5&logoColor=white&color=EAEAEA&labelColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-%23323330?style=for-the-badge&logo=CSS&logoColor=white&color=EAEAEA&labelColor=663399)
+![Typescript](https://img.shields.io/badge/Typescript-%23323330?style=for-the-badge&logo=Typescript&logoColor=white&color=EAEAEA&labelColor=3178C6)
+![React](https://img.shields.io/badge/React-%23323330?style=for-the-badge&logo=React&logoColor=white&color=EAEAEA&labelColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23323330?style=for-the-badge&logo=Redux&logoColor=white&color=EAEAEA&labelColor=764ABC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23323330?style=for-the-badge&logo=Bootstrap&logoColor=white&color=EAEAEA&labelColor=7952B3)
+![ESLint](https://img.shields.io/badge/ESLint-%23323330?style=for-the-badge&logo=ESLint&logoColor=white&color=EAEAEA&labelColor=4B32C3)
 
+## 🌱 Навыки в разработке
+- Создание адаптивных интерфейсов
+- Разработка SPA-приложений
+- Работа с современным стэком фронтенда
+
+## 🚀 Проекты
+- [Чат](https://github.com/AnastasiaVAV/Chat_Slack) – упрощенный версия Slack чата: JavaScript, React, Redux, AJAX, Vite
+- [RSS агрегатор](https://github.com/AnastasiaVAV/RSS-aggregator) – агрегация, обновление RSS-лент: JavaScript, DOM API, MVC-архитектура, Bootstrap, Vite
+- [Вычислитель отличий](https://github.com/AnastasiaVAV/Difference-calculator) – CLI-утилита: JavaScript, Node.js, Jest
+
+<!-- ![JavaScript](https://img.shields.io/badge/Java-Script-%23323330?style=for-the-badge&logo=javascript&logoColor=white&color=99CAF3&labelColor=555555)
+![HTML](https://img.shields.io/badge/HTML-%23323330?style=for-the-badge&logo=HTML5&color=white&labelColor=555555) -->
 <!-- <table style="width:100%">
   <tr>
     <th>🌐 Web Development</th>
