@@ -26,7 +26,7 @@
 - [Чат](https://github.com/AnastasiaVAV/Chat_Slack) – упрощенный версия Slack чата: JavaScript, React, Redux, AJAX, Vite
 - [RSS агрегатор](https://github.com/AnastasiaVAV/RSS-aggregator) – агрегация, обновление RSS-лент: JavaScript, DOM API, MVC-архитектура, Bootstrap, Vite
 - [Вычислитель отличий](https://github.com/AnastasiaVAV/Difference-calculator) – CLI-утилита: JavaScript, Node.js, Jest
-- [Список задач](https://github.com/AnastasiaVAV/Todo) – добавление, изменение (статус выполнения, название), удаление задач, фильтр статусов: TypeScript, React, Vite
+- [Список задач]([https://github.com/AnastasiaVAV/Todo](https://github.com/AnastasiaVAV/Task-Manager)) – приложение с аутентификацией и авторизацией, CRUD операциями с задачами, бэкендом: TypeScript, React, Supabase, Vite
 
 
 <!-- ![JavaScript](https://img.shields.io/badge/Java-Script-%23323330?style=for-the-badge&logo=javascript&logoColor=white&color=99CAF3&labelColor=555555)
