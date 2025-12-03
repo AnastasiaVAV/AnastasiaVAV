@@ -23,6 +23,8 @@
 - Работа с современным стэком фронтенда
 
 ## 🚀 Проекты
+[Портфолио](https://portfolio-anastasiiavav.vercel.app/)
+
 - [Чат](https://github.com/AnastasiaVAV/Chat_Slack) – упрощенный версия Slack чата: JavaScript, React, Redux, AJAX, Vite
 - [RSS агрегатор](https://github.com/AnastasiaVAV/RSS-aggregator) – агрегация, обновление RSS-лент: JavaScript, DOM API, MVC-архитектура, Bootstrap, Vite
 - [Вычислитель отличий](https://github.com/AnastasiaVAV/Difference-calculator) – CLI-утилита: JavaScript, Node.js, Jest
